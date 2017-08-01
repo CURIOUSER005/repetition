@@ -70,7 +70,7 @@ for ind=1:len
         disp('confirm repetition');
         disp(rep1);
         end
-
+disp("done");
     rmpath 'C:\Users\KHOMESH\Desktop\New folder\rastamat'
     clear dist_mfcc;clear dist_plp;clear rep1;clear seg;%C:\Users\KHOMESH\Desktop\project\audio\Arthur\Repetitions\Arthur
 end
